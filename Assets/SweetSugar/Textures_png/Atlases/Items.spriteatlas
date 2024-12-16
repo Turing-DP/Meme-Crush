@@ -70,6 +70,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: b579f2532165c4d38afda6332b8af6cb, type: 3}
   - {fileID: 21300000, guid: 8bff9453e483b4a6ea2bc4713ce58542, type: 3}
   - {fileID: 21300000, guid: 785653637a49447bd92900c47e139a3c, type: 3}
+  - {fileID: 21300000, guid: 281000a37addf024c8311b72490f4a0d, type: 3}
   - {fileID: 21300000, guid: b15b24a33f69c4710a9a9093e5312bab, type: 3}
   - {fileID: 21300000, guid: 76484204c1ee945419d016f44240797b, type: 3}
   - {fileID: 21300000, guid: 71cd88344a75f44189cb83c90d740fa0, type: 3}
@@ -90,6 +91,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ecb63978a2bb3412889e0abe385f7d7d, type: 3}
   - {fileID: 21300000, guid: 9110f888b11cad04a8bf87aa9ed3a5c1, type: 3}
   - {fileID: 21300000, guid: bee78798515184a738b36415600c08ee, type: 3}
+  - {fileID: 21300000, guid: d260dbe8639f27d41afe4cc20796ce7c, type: 3}
   - {fileID: 21300000, guid: df7ade69ab1c5ed4a80551ca6a914a1e, type: 3}
   - {fileID: 21300000, guid: c56be2795f28446b5a664ee849dee918, type: 3}
   - {fileID: 21300000, guid: 602077c9fcbeb4dbcb982cf680370405, type: 3}
@@ -140,6 +142,7 @@ SpriteAtlas:
   - ingredient_02
   - item_06_stripes_horiz
   - item_05_stripes_vert
+  - item_05 1
   - teleport_00
   - item_02_stripes_vert
   - bomb_items_05
@@ -160,6 +163,7 @@ SpriteAtlas:
   - item_04_stripes_horiz
   - boom_11
   - item_spot_01
+  - item_03 1
   - boom_15
   - bomb_items_03
   - item_mar_03
